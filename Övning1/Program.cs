@@ -51,6 +51,10 @@ class main
                 Console.WriteLine("Hej då");
                 exit = true;
             }
+            else
+            {
+                Console.WriteLine("Välj 1, 2 eller 3.");
+            }
             Console.WriteLine("\n");
         }
 
